@@ -22,3 +22,4 @@ PySide6-Addons==6.8.1
 # These are typically included with the above but listed for clarity
 setuptools>=65.5.0
 wheel>=0.37.0
+whitenoise
